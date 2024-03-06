@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Low Level Design/QContest ME/Define Services.md",
+                "file": "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/app/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7feb07bb3f7adab4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Low Level Design/QContest ME/Define Services.md",
+                "file": "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/app/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Low Level Design/QContest ME/Define Services.md",
+                "file": "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/app/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Low Level Design/QContest ME/Define Services.md"
+                "file": "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/app/README.md"
               }
             }
           }
@@ -149,24 +148,29 @@
   },
   "active": "c517f1117e71217c",
   "lastOpenFiles": [
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/services/__pycache__/UserService.cpython-36.pyc",
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/services/__pycache__/__init__.cpython-36.pyc",
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/services/__pycache__/QuestionService.cpython-36.pyc",
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/services/__pycache__/ContestService.cpython-36.pyc",
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/__init__.cpython-36.pyc",
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/User.cpython-36.pyc",
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/Question.cpython-36.pyc",
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/Level.cpython-36.pyc",
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/Contestant.cpython-36.pyc",
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/ContestStatus.cpython-36.pyc",
-    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/Contest.cpython-36.pyc",
+    "Low Level Design/QContest ME/Define Services.md",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/venv/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/backports/weakref_finalize.py",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/venv/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/venv/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/venv/lib/python3.9/site-packages/setuptools/_vendor/jaraco/text/__init__.py",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/venv/lib/python3.9/site-packages/pkg_resources/_vendor/jaraco/text/__init__.py",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/wait.py",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/url.py",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/app/README.md",
+    "Low Level Design/Coding Contest App/ProjectCode/Coding Contest App/README.md",
+    "Low Level Design/Coding Contest App/Define Services.md",
+    "Low Level Design/Coding Contest App/Define Entities.md",
+    "Low Level Design/QContest ME/ProjectCode/Coding Contest App/app/README.md",
+    "Low Level Design/QContest ME/ProjectCode/Coding Contest App/README.md",
     "Low Level Design/QContest ME/ProjectCode/QContest/app/README.md",
     "Low Level Design/QContest ME/ProjectCode/QContest/python/README.md",
     "Low Level Design/QContest ME/ProjectCode/QContest/README.md",
     "Low Level Design/QContest ME/ProjectCode/kunalwadhwa-cse-ME_QCONTEST/python/README.md",
     "Low Level Design/QContest ME/ProjectCode/kunalwadhwa-cse-ME_QCONTEST/README.md",
     "Low Level Design/QContest ME/Define Entities.md",
-    "Low Level Design/QContest ME/Define Services.md",
     "Low Level Design/QContest ME/fa.md",
     "fas.md",
     "nice.md"
