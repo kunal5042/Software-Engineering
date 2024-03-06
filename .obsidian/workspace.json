@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Low Level Design/QContest ME/Introduction.md",
+                "file": "Low Level Design/QContest ME/Define Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Low Level Design/QContest ME/Introduction.md",
+                "file": "Low Level Design/QContest ME/Define Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Low Level Design/QContest ME/Introduction.md",
+                "file": "Low Level Design/QContest ME/Define Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Low Level Design/QContest ME/Introduction.md"
+                "file": "Low Level Design/QContest ME/Define Services.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "c517f1117e71217c",
   "lastOpenFiles": [
+    "Low Level Design/QContest ME/Define Entities.md",
+    "Low Level Design/QContest ME/Define Services.md",
     "Low Level Design/QContest ME/fa.md",
-    "Low Level Design/QContest ME/Introduction.md",
     "fas.md",
     "Low Level Design/QContest ME",
     "nice.md",
