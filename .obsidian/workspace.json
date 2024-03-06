@@ -149,12 +149,26 @@
   },
   "active": "c517f1117e71217c",
   "lastOpenFiles": [
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/services/__pycache__/UserService.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/services/__pycache__/__init__.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/services/__pycache__/QuestionService.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/services/__pycache__/ContestService.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/__init__.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/User.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/Question.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/Level.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/Contestant.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/ContestStatus.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/src/entities/__pycache__/Contest.cpython-36.pyc",
+    "Low Level Design/QContest ME/ProjectCode/QContest/app/README.md",
+    "Low Level Design/QContest ME/ProjectCode/QContest/python/README.md",
+    "Low Level Design/QContest ME/ProjectCode/QContest/README.md",
+    "Low Level Design/QContest ME/ProjectCode/kunalwadhwa-cse-ME_QCONTEST/python/README.md",
+    "Low Level Design/QContest ME/ProjectCode/kunalwadhwa-cse-ME_QCONTEST/README.md",
     "Low Level Design/QContest ME/Define Entities.md",
     "Low Level Design/QContest ME/Define Services.md",
     "Low Level Design/QContest ME/fa.md",
     "fas.md",
-    "Low Level Design/QContest ME",
-    "nice.md",
-    "Low Level Design"
+    "nice.md"
   ]
 }

@@ -31,4 +31,43 @@ Repositories:-
 - Repository Objects are used by the services to complete their task.
     
 - Its interface hides the underlying technology data store that’s been used. Services doesn’t care if In Memory data-structure like HashMap or databases like SQL, Mongo, etc is being used as long as the Repository Implementation of these databases is able to provide consistent results.
-    
+
+You have to implement the QContest platform with the following functionalities
+
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052401_image_4.png)
+
+  
+
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052401_image_5.png)
+
+The above diagram represents the flow of `CREATE_QUESTION` requests through various components ( classes ) of the system.
+
+
+
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052402_image_6.png)
+
+
+
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052402_image_7.png)
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052403_image_8.png)
+
+
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052403_image_9.png)
+
+
+
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052404_image_10.png)
+
+
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052404_image_11.png)
+
+
+
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052405_image_12.png)
+
+
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052405_image_13.png)
+
+
+![image](https://storage.googleapis.com/crio-content-container-assets/ME_QCONTEST_MODULE_ME_QCONTEST_MODULE_SERVICES_1662052406_image_14.png)
+
