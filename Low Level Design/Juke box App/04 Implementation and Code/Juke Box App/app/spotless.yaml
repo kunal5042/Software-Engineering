@@ -1,0 +1,4 @@
+# spotless.yaml
+java:
+  google-java-format:
+    version: '1.11.0'
