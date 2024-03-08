@@ -89,6 +89,5 @@ Signing in encryption refers to the process of adding a digital signature to a m
     
 8. **Certificate Authorities**: In many cases, digital signatures are tied to digital certificates issued by trusted Certificate Authorities (CAs). These certificates validate the authenticity of the sender's public key, establishing trust in the digital signature verification process.
 
-![](AWS/Cloud%20Solutions%20Architect/Personal%20Notes/Fundamentals/attachments/Pasted%20image%2020240309041818.png)
-![](attachments/Pasted%20image%2020240309041850.png)
-![](Pasted%20image%2020240309041902.png)
+![](https://github.com/kunal5042/Software-Engineering/blob/main/AWS/Cloud%20Solutions%20Architect/Personal%20Notes/Fundamentals/attachments/Pasted%20image%2020240308214620.png)
+
