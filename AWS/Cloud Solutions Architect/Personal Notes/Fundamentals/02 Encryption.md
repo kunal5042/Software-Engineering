@@ -20,11 +20,11 @@
 
 # Concepts
 - Plain text --> Algorithm --> Key --> Ciphertext
-![](Screenshot%202024-03-08%20at%209.16.24%20PM.png)
 
 # Symmetric Encryption
 
-![](Screenshot%202024-03-08%20at%209.20.23%20PM.png)
+![](AWS/Cloud%20Solutions%20Architect/Personal%20Notes/Fundamentals/attachments/Screenshot%202024-03-08%20at%209.20.23%20PM.png)
+
 
 **Symmetric Encryption**
 
