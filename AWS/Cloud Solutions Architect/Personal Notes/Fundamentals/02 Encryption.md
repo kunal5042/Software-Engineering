@@ -88,6 +88,3 @@ Signing in encryption refers to the process of adding a digital signature to a m
 7. **Standards and Algorithms**: Various cryptographic standards and algorithms exist for digital signatures, including RSA, DSA (Digital Signature Algorithm), ECDSA (Elliptic Curve Digital Signature Algorithm), and EdDSA (Edwards-curve Digital Signature Algorithm).
     
 8. **Certificate Authorities**: In many cases, digital signatures are tied to digital certificates issued by trusted Certificate Authorities (CAs). These certificates validate the authenticity of the sender's public key, establishing trust in the digital signature verification process.
-
-![](https://github.com/kunal5042/Software-Engineering/blob/main/AWS/Cloud%20Solutions%20Architect/Personal%20Notes/Fundamentals/attachments/Pasted%20image%2020240308214620.png)
-

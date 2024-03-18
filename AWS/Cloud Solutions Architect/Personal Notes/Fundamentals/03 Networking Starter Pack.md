@@ -20,3 +20,4 @@
 ![](Pasted%20image%2020240308220951.png)
 
 ## Layer 3 - Network Layer
+![](AWS/Cloud%20Solutions%20Architect/Personal%20Notes/Fundamentals/attachments/Pasted%20image%2020240309221920.png)
