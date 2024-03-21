@@ -10,8 +10,10 @@
 1. Default VPC
 	1. Created by default by AWS
 	2. Preconfigured, One per region - can be removed & recreated
+		1. Subnets assign public IPv4 addresses
 	3. Default VPC CIDR is always **172.31.0.0/16**
 	4. /20 Subnet in each AZ in the region
+	5. Internet Gateway (IGW), Security Group (SG) & NACL
 2. Custom VPC
 	1. Created by the users
 	2. Can create one or more per region
