@@ -55,5 +55,16 @@
 
 ![Amazon S3 Glacier Deep Archive storage class](https://d1.awsstatic.com/reInvent/re21-pdp-tier1/s3/deep-archive-how-it-works.1d6acf44c81c46ae9f3e920d83b13e5fde1ed343.png "Amazon S3 Glacier Deep Archive storage class")
 
+# S3 Intelligent-Tiering
+- Frequent, Infrequent, and Archive Instant Access tiers have the same low-latency and high-throughput performance of S3 Standard 
+- The Infrequent Access tier saves up to 40% on storage costs  
+- The Archive Instant Access tier saves up to 68% on storage costs  
+- Opt-in asynchronous archive capabilities for objects that become rarely accessed 
+- Archive Access and Deep Archive Access tiers have the same performance as S3 Glacier Flexible Retrieval and S3 Glacier Deep Archive and save up to 95% for rarely accessed objects
+- Designed for durability of 99.999999999% of objects across multiple Availability Zones and for 99.9% availability over a given year
+- No operational overhead, no lifecycle charges, no retrieval charges, and no minimum storage duration
+
+![](https://youtu.be/6brzBokCYV0)
+
 # S3 Glacier Archive Architecture
 ![Amazon S3 Glacier storage classes overview](https://d1.awsstatic.com/reInvent/re21-pdp-tier1/s3/s3-glacier-overview.0d570958d5161d19059c7dee00865500c1470256.png "Amazon S3 Glacier storage classes overview")
