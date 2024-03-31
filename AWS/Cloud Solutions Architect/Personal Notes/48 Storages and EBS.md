@@ -64,4 +64,15 @@ Application --> Operating System --> Storage Sub System --> Transport Mechanism 
 - Snapshot (backup) into S3.
 	- Create volume from snapshot (also helps you migrate between AZs)
 	- This makes the backup regional resilient 
-- 
+- Different physical storage types, different sizes, different performance profiles
+- Billed based on GB-month (and in some cases performance)
+
+
+# EBS Architecutre
+![](AWS/Cloud%20Solutions%20Architect/Personal%20Notes/attachments/Pasted%20image%2020240327232315.png)
+
+# General Purpose SSD - GP2
+![](AWS/Cloud%20Solutions%20Architect/Personal%20Notes/attachments/Pasted%20image%2020240328112729.png)
+
+# General Purpose SSD - GP3
+![](AWS/Cloud%20Solutions%20Architect/Personal%20Notes/attachments/Pasted%20image%2020240328113025.png)
