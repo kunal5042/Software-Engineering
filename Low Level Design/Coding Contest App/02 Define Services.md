@@ -1,4 +1,4 @@
-#### Background
+i#### Background
 
 Entities are the backbone of the application. They do a considerable amount of work by relating to real-world objects around us. But they aren’t capable of solving the use cases posed by the users, on their own. A driving force is needed to collaborate with the entities, forming a collection of steps to solve each use case. A service is that driving force which helps to solve the use cases.
 
